@@ -2,6 +2,9 @@ class FirstProgram
 {
 public static void main(String[] args)
 {
-System.out.println("HELLO WORLD");
+
+    int a=10;
+    int k=20;
+    System.out.println(a+k);
 }
 }
